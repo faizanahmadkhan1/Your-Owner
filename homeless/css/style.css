@@ -1,0 +1,18 @@
+h1 {
+    color: darkcyan;
+    text-align: center;
+    font-weight: bolder;
+}
+.find
+{
+    align-items: center;
+}
+
+.active, .nav-item:hover {
+    background-color: cadetblue;
+    color: white;
+  }
+
+  body {
+      background-image: url(https://images.unsplash.com/photo-1586526748273-fa664bd51af1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=335&q=80);
+  }
